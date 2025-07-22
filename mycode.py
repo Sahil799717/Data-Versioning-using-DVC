@@ -20,8 +20,8 @@ df.loc[len(df.index)] = new_row_data
 
 # Adding new row to df for v3
 new_row_data_v3 = {
-    'Name': 'Eve',
-    'Age': 22,
+    'Name': 'Eveeeeeeeeee',
+    'Age': 224,
     'City': 'Seattle'
 }
 df.loc[len(df.index)] = new_row_data_v3
